@@ -8,7 +8,7 @@ export function HeroSection() {
       <div className="max-w-7xl mx-auto">
         <div className="flex flex-col md:flex-row items-center gap-12">
           {/* Logo Section */}
-          <div className="flex-shrink-0" style={{ marginRight: '90px' }}>
+          <div className="flex-shrink-0 md:mr-[90px]">
             <div className="w-48 h-48 md:w-56 md:h-56">
               <img 
                 src={logoImage} 
