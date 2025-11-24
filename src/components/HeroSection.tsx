@@ -21,13 +21,13 @@ export function HeroSection() {
           {/* Content Section */}
           <div className="flex-1 text-center md:text-left">
             <h1 className="mb-4" style={{ fontSize: '56px', fontWeight: 900, lineHeight: '62px' }}>
-              Sistema Eletrônico de Informações - <span className="text-[#77B01B]">SEI</span>
+              Sistema Eletrônico de Informações - <span className="text-[#FFC107]">SEI</span>
             </h1>
             
             
             <div className="mb-6">
-              <div className="inline-block border-b-4 border-[#77B01B] pb-1">
-                <p className="text-[#77B01B] uppercase tracking-wide" style={{ fontSize: '32px', fontWeight: 600, lineHeight: '51px' }}>
+              <div className="inline-block border-b-4 border-[#FFC107] pb-1">
+                <p className="text-[#FFC107] uppercase tracking-wide" style={{ fontSize: '32px', fontWeight: 600, lineHeight: '51px' }}>
                   Prefeitura Municipal de Pinheiral
                 </p>
               </div>
