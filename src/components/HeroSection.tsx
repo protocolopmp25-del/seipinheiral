@@ -40,12 +40,20 @@ export function HeroSection() {
             {/* Action Buttons */}
             <div className="flex flex-wrap gap-3 justify-center md:justify-start">
               
-              <Button className="bg-[#43A047] hover:bg-[#388E3C] text-white gap-2">
+              <Button className="bg-[#43A047] hover:bg-[#388E3C] text-white gap-2"
+               onClick={() => {
+                      window.open("https://medioparaiba.sei.rj.gov.br/sei", '_blank', 'noopener,noreferrer');
+               }}
+              >
                 <Lock className="w-4 h-4" />
                 Acessar SEI
               </Button>
               
-              <Button className="bg-white hover:bg-gray-100 text-[#3949AB] gap-2">
+              <Button className="bg-white hover:bg-gray-100 text-[#3949AB] gap-2"
+              onClick={() => {
+                      window.open("https://medioparaiba.sei.rj.gov.br/sei/consultaprocessual", '_blank', 'noopener,noreferrer');
+               }}
+              >
                 <BookOpen className="w-4 h-4" />
                 Pesquisa Pública
               </Button>
