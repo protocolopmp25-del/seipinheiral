@@ -248,20 +248,6 @@ export function ContactSection() {
                     <span className="text-white/70">CEP:</span> 27197-080
                   </p>
           </div>
-          <div className="flex flex-wrap justify-center gap-3">
-            <Button className="bg-white/20 hover:bg-white/30 text-white border border-white/40 gap-2">
-              <ExternalLink className="w-4 h-4" />
-              Site da Prefeitura
-            </Button>
-            <Button className="bg-[#10B981] hover:bg-[#059669] text-white gap-2">
-              <Lock className="w-4 h-4" />
-              Acessar SEI
-            </Button>
-            <Button className="bg-white/20 hover:bg-white/30 text-white border border-white/40 gap-2">
-              <ExternalLink className="w-4 h-4" />
-              SEI Nacional
-            </Button>
-          </div>
         </Card>
       </div>
     </section>
