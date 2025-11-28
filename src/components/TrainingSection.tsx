@@ -7,12 +7,12 @@ export function TrainingSection() {
     subtitle: "Confira de forma objetiva alguns dos recursos mais utilizados",
     courses: [
       {
-        title: "Curso COMPLETO do Sistema Eletrônico de Informações (Portal Sapiens)",
-        provider: "Portal Sapiens",
+        title: "Curso SEI 4.0 - Vídeo Aulas",
+        provider: "assembleiasc",
         description: "Playlist com vídeos passo a passo sobre o uso do SEI, ideal para iniciantes e usuários avançados.",
         duration: "Vários vídeos",
         buttonText: "Playlist",
-        link: "https://www.youtube.com/playlist?list=PLKd6XBsXjcjdCUXvic7deulTJ6iuNl2Ej",
+        link: "https://drive.google.com/drive/folders/1MIc8G-99FB1s3RNIBu2CNr2u7M08BOxO",
         hasPlaylist: true
       },
       {
@@ -28,7 +28,7 @@ export function TrainingSection() {
         provider: "Arquivo Central - SIARQ UFRJ",
         description: "Vídeo explicando como pesquisar a um processo",
         duration: "4 min",
-        link: "https://www.youtube.com/watch?v=x_8HpeGxwKE",
+        link: "https://drive.google.com/drive/folders/1bbPq7t_d7VKnNx6AQbjL4LlWRohp_FJr",
         buttonText: "Assistir"
       },
       {
@@ -36,7 +36,7 @@ export function TrainingSection() {
         provider: "assembleiasc",
         description: "Vídeo explicando como consultar o andamento dos processos",
         duration: "2 min",
-        link: "https://www.youtube.com/watch?v=GLpG-8CqbGw",
+        link: "https://drive.google.com/drive/folders/16PywI4UWk-Lqi8oS6AijxAT_YugYIouX",
         buttonText: "Assistir"
       },
       {
@@ -44,7 +44,7 @@ export function TrainingSection() {
         provider: "Arquivo Central - SIARQ UFRJ",
         description: "Vídeo explicando como consultar o andamento dos processos",
         duration: "2 min",
-        link: "https://www.youtube.com/watch?v=SCuwus-MIDU",
+        link: "https://drive.google.com/drive/folders/1FzBCqwGmDxdAsE_LFzkAguQI7XIH1gp4",
         buttonText: "Assistir"
       },
       {
@@ -52,7 +52,7 @@ export function TrainingSection() {
         provider: "assembleiasc",
         description: "Veja como criar um documento em texto ou modelo padrão do SEI",
         duration: "8 min",
-        link: "https://www.youtube.com/watch?v=vVFz8YuUfIY",
+        link: "https://drive.google.com/drive/folders/1IytPINPe1wXERQtIjPwoT_N4jihxzEqN",
         buttonText: "Assistir"
       },
       {
@@ -60,7 +60,7 @@ export function TrainingSection() {
         provider: "assembleiasc",
         description: "Vídeo explicando como incluir um documento externo",
         duration: "7 min",
-        link: "https://www.youtube.com/watch?v=qWLOLDHwlhs",
+        link: "https://drive.google.com/drive/folders/1PN0Xz6I2EM26TfoPxyVCN-vn6jTgNzvy",
         buttonText: "Assistir"
       },
       {
@@ -68,7 +68,7 @@ export function TrainingSection() {
         provider: "assembleiasc",
         description: "Veja como editar um documento",
         duration: "2 min",
-        link: "https://www.youtube.com/watch?v=q-GGKRgw2PY",
+        link: "https://drive.google.com/drive/folders/16ynmy1z_5WDgoPobw02i8JOtq4a3khL-",
         buttonText: "Assistir"
       },
       {
@@ -76,15 +76,15 @@ export function TrainingSection() {
         provider: "assembleiasc",
         description: "Veja como excluir um documento",
         duration: "3 min",
-        link: "https://www.youtube.com/watch?v=qsjkq7LkPK8",
+        link: "https://drive.google.com/drive/folders/1Bi97OMVpAQwVU2ETCUpyz0_qdtFdjY-g",
         buttonText: "Assistir"
       },
       {
-        title: "Como enviar processos dentro do meu setor?",
+        title: "Como distribuir processos dentro do meu setor?",
         provider: "assembleiasc",
-        description: "Veja como enviar internamente o processo dentro do seu setor",
+        description: "Veja como distribuir internamente o processo dentro do seu setor",
         duration: "2 min",
-        link: "https://www.youtube.com/watch?v=VNTL9DhOcVk",
+        link: "https://drive.google.com/drive/folders/1gxA-uiPYaP2cW2DGzkr1Vu1NUTp58W9B",
         buttonText: "Assistir"
       },
       {
@@ -92,7 +92,7 @@ export function TrainingSection() {
         provider: "assembleiasc",
         description: "Veja como encaminhar o processo para outro departamento ou secretaria",
         duration: "4 min",
-        link: "https://www.youtube.com/watch?v=CxPQaLXbdSM",
+        link: "https://drive.google.com/drive/folders/14cUB_iP6kU0LfIHBloiQZVuxYgi7qykn",
         buttonText: "Assistir"
       },
       {
@@ -100,7 +100,7 @@ export function TrainingSection() {
         provider: "assembleiasc",
         description: "Aprenda como receber processos",
         duration: "2 min",
-        link: "https://www.youtube.com/watch?v=zKsIST9XQ_I",
+        link: "https://drive.google.com/drive/folders/1KlvszVxYw2jdGu9BFnjPi8tc87Ds5jgk",
         buttonText: "Assistir"
       },
       {
@@ -108,7 +108,7 @@ export function TrainingSection() {
         provider: "assembleiasc",
         description: "Aprenda como conlcuir um processo",
         duration: "3 min",
-        link: "https://www.youtube.com/watch?v=7cyVvG8nslE",
+        link: "https://drive.google.com/drive/folders/1NtH8SdUhVnmPtcrgOJ96OJIW4gvxGhgF",
         buttonText: "Assistir"
       },
       {
@@ -116,7 +116,7 @@ export function TrainingSection() {
         provider: "assembleiasc",
         description: "Aprenda como excluir um processo",
         duration: "1 min",
-        link: "https://www.youtube.com/watch?v=VGT0DZJFDEQ",
+        link: "https://drive.google.com/drive/folders/1jO56z2xRFvx0_GIz8SMKxYZWmVyNDXCj",
         buttonText: "Assistir"
       },
       {
@@ -124,7 +124,7 @@ export function TrainingSection() {
         provider: "DIVERSOS DO YOU TUBE",
         description: "Aprenda dar ciência em um processo, documento, memorando ou ofício",
         duration: "1 min",
-        link: "https://www.youtube.com/watch?v=4wW2JrOJ00g",
+        link: "https://drive.google.com/drive/folders/1z8zAHRjuRW_iwZ0MzYgccBvxcPr4YiDw",
         buttonText: "Assistir"
       },
       {
@@ -132,7 +132,7 @@ export function TrainingSection() {
         provider: "Canal Oficial da UFMA",
         description: "Veja como disponibilizar documentos para assinatura",
         duration: "7 min",
-        link: "https://www.youtube.com/watch?v=U3Fz68xHW00",
+        link: "https://drive.google.com/drive/folders/1Ywcqrw2MEfWJ3eutT5-gpDO9mjdvRcHN",
         buttonText: "Assistir"
       },
       {
@@ -140,7 +140,7 @@ export function TrainingSection() {
         provider: "Canal Oficial da UFMA",
         description: "Veja como assinar um documento",
         duration: "3 min",
-        link: "https://www.youtube.com/watch?v=Um0uoV7obwQ",
+        link: "https://drive.google.com/drive/folders/101xHQeqUV7rbufuR83lJuN6xhRJDB75L",
         buttonText: "Assistir"
       },
       {
@@ -148,7 +148,7 @@ export function TrainingSection() {
         provider: "assembleiasc",
         description: "Veja como anexar ou ajuntar um processo a outro",
         duration: "3 min",
-        link: "https://www.youtube.com/watch?v=6noHeZRdVyg",
+        link: "https://drive.google.com/drive/folders/1M5zabFvxnItP8H58wJ9UWZvsRCXMBlGI",
         buttonText: "Assistir"
       }
     ]
