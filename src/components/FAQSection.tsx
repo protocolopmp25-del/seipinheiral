@@ -14,12 +14,12 @@ export function FAQSection() {
       answer: "Para utilizar o SEI na Prefeitura de Pinheiral, você precisa ser servidor público municipal. É necessário ter acesso à internet e um navegador atualizado. Os servidores receberão suas credenciais através dos pontos focais."
     },
     {
-      question: "Qual a diferença entre processo físico e eletrônico no SEI?",
-      answer: "O processo eletrônico no SEI elimina o uso de papel e permite tramitação instantânea entre setores. Enquanto processos físicos dependem de transporte manual e armazenamento físico, os processos eletrônicos são acessados de qualquer lugar, possuem rastreamento completo e maior segurança através de assinaturas digitais."
-    },
-    {
       question: "Como solicitar acesso ao SEI na Prefeitura?",
       answer: "Servidores públicos devem solicitar acesso ao ponto focal na sua secretaria. O ponto focal entrará em contato com o comitê gestor para dar prosseguimento."
+    },
+    {
+      question: "Como realizar corretamente a classificação de nível de acesso?",
+      answer: "Consulte a página https://wikisei.rj.gov.br/Classifica%C3%A7%C3%A3o_de_N%C3%ADvel_de_Acesso_no_SEI. Assim você terá respostas para perguntas como: 'O que acontece quando coloco um documento classificado como restrito em um processo classificado como público?' e 'O que acontece quando insiro um documento público em um processo classificado como restrito?'"
     },
     {
       question: "Os documentos assinados digitalmente no SEI têm validade jurídica?",
