@@ -3,7 +3,7 @@ import { Button } from "./ui/button";
 
 export function TrainingSection() {
   const introVideos = {
-    title: "Vídeos tutoriais no YouTube",
+    title: "Vídeos tutoriais",
     subtitle: "Confira de forma objetiva alguns dos recursos mais utilizados",
     courses: [
       {
